@@ -1,0 +1,66 @@
+/* Estilos gerais para centralizar fotos e textos */
+body {
+    text-align: center; /* Centraliza todo o conteúdo do body */
+    color: black; /* Define a cor do texto como preto */
+    font-family: Arial, sans-serif; /* Define a fonte como Arial */
+}
+
+/* Estilos para o cabeçalho H1 */
+h1 {
+    text-align: center; /* Centraliza o texto */
+    color: #333; /* Cor da letra cinza escuro */
+    font-size: 30px; /* Tamanho da fonte 30 pixels */
+}
+
+/* Estilos para o cabeçalho H2 */
+h2 {
+    text-align: left; /* Alinha o texto à esquerda */
+    color: #666; /* Cor da letra cinza médio */
+    font-size: 25px; /* Tamanho da fonte 25 pixels */
+}
+
+/* Estilos para o parágrafo */
+p {
+    text-align: left; /* Alinha o texto à esquerda */
+    text-align: justify; /* Justifica o texto */
+    color: black; /* Cor da letra preto */
+    font-size: 20px; /* Tamanho da fonte 20 pixels */
+}
+h1 {
+    color: rgb(49, 49, 49); /* opcional: define a cor do texto dentro do elemento h1 */
+    line-height: 1.6;
+    font-size:30px
+}
+body {
+    background-color: #8dd3c4;
+    margin: 0;
+    padding: 20pt;
+    font-family: Arial, sans-serif;
+    color: rgb(29, 48, 25); /* Texto preto */
+    text-align: center;
+}
+
+
+h2 {
+    color: rgb(82, 82, 82); /* opcional: define a cor do texto dentro do elemento h2 */
+    line-height: 1.6;
+    font: size 25px;
+}
+body {
+    background-color: #8dd3c4;
+    margin: 0;
+    padding: 20pt;
+    font-family: Arial, sans-serif;
+    color: rgb(29, 48, 25); /* Texto preto */
+    text-align: left;
+    text-align: justify
+}
+
+h3 {
+    color: rgb(97, 97, 97); /* opcional: define a cor do texto dentro do elemento h3 */
+    line-height: 1.6;
+}
+h4 {
+    color: rgb(143, 143, 143); /* opcional: define a cor do texto dentro do elemento h4 */
+    line-height: 1.6;
+}

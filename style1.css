@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #94c7c3;
+    color: #8ec9bf;
+    margin: 0;
+    padding: 0;
+}
+
+.conteudo {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+ /* Estilos gerais para centralizar fotos e textos */
+ body {
+    text-align: center; /* Centraliza todo o conteúdo do body */
+    color: black; /* Define a cor do texto como preto */
+    font-family: Arial, sans-serif; /* Define a fonte como Arial */
+}
+
+/* Estilos para o cabeçalho H1 */
+h1 {
+    text-align: center; /* Centraliza o texto */
+    color: #333; /* Cor da letra cinza escuro */
+    font-size: 30px; /* Tamanho da fonte 30 pixels */
+}
+
+/* Estilos para o cabeçalho H2 */
+h2 {
+    text-align: left; /* Alinha o texto à esquerda */
+    color: #666; /* Cor da letra cinza médio */
+    font-size: 25px; /* Tamanho da fonte 25 pixels */
+}
+
+/* Estilos para o parágrafo */
+p {
+    text-align: left; /* Alinha o texto à esquerda */
+    text-align: justify; /* Justifica o texto */
+    color: black; /* Cor da letra preto */
+    font-size: 20px; /* Tamanho da fonte 20 pixels */
+}
